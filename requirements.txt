@@ -1,5 +1,5 @@
 #requirements.txt
- snowflake-connector-python
+ snowflake-connection-python
  #snowflake-dependencies-python
  snowflake-snowpark-python
   streamlit==1.31.1
